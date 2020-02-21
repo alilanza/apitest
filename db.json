@@ -1,10 +1,12 @@
-[
-   "plumber2":{ 
-      "name":"John",
-      "number":"+14158455317"
-   },
-   "plumber1":{ 
-      "name":"Bob",
-      "number":"+14152723084"
-   }
-]
+{ 
+   "plumbers":[ 
+      { 
+         "name":"John",
+         "number":"+14158455317"
+      },
+      { 
+         "name":"Bob",
+         "number":"+14152723084"
+      }
+   ]
+}
